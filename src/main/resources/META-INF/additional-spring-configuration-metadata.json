@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.dxriverClassName",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.dxriverClassName."
+    },
+    {
+      "name": "spring.jpa.driverClassName",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.driverClassName."
+    }
+  ] }
